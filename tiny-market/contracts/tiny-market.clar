@@ -2,9 +2,6 @@
 ;; tiny-market
 ;; Clarity Camp cohort 3 "Tiny Market" project
 
-;; Define SIP009 and SIP010 traits
-;; REMINDER: add wallet address
-
 (use-trait nft-trait .sip009-nft-trait.nft-trait)
 (use-trait ft-trait .sip010-ft-trait.ft-trait)
 
